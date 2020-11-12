@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mateusz Koprowicz and I'm a junior JavaScript developer. I'm from Poland and I'm currently looking for a job. Please have a look at the [![portfolio][https://portfolio-cc024.web.app/]
+My name is Mateusz Koprowicz and I'm a junior JavaScript developer. I'm from Poland and I'm currently looking for a job. Please have a look at the [portfolio](https://portfolio-cc024.web.app/) and at the rest of [repositories](https://github.com/RaaaZo?tab=repositories)
 
 ## 🔧 Technologies & Tools
 
