@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Mateusz Koprowicz and I'm a junior JavaScript developer. I'm from Poland and I'm currently looking for a job. Please have a look at the [![portfolio][https://portfolio-cc024.web.app/]
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -22,9 +24,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaaaZo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/RaaaZo/RaaZo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaaaZo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaaaZo&show_icons=true&line_height=27&count_private=true&hide=stars,prs,issues,contribs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="RaaaZo Github stars" />
 </a>
 
 <a href="https://github.com/RaaaZo/e-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaaaZo&repo=e-shop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaaaZo&repo=e-shop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</a>
+
+<a href="https://github.com/RaaaZo/stomatologist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaaaZo&repo=stomatologist&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
