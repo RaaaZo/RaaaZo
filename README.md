@@ -21,7 +21,7 @@ My name is Mateusz Koprowicz and I'm a junior JavaScript developer. I'm from Pol
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/RaaaZo/RaaaZo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaaaZo&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaaaZo&langs_count=4&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/RaaaZo/RaaZo">
   <img src="https://github-readme-stats.vercel.app/api?username=RaaaZo&show_icons=true&line_height=27&count_private=true&hide=prs,issues&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="RaaaZo Github stars" />
