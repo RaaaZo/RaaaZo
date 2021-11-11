@@ -26,11 +26,3 @@ My name is Mateusz Koprowicz and I'm a junior JavaScript developer.
 <a href="https://github.com/RaaaZo/RaaZo">
   <img src="https://github-readme-stats.vercel.app/api?username=RaaaZo&show_icons=true&line_height=27&count_private=true&hide=prs,issues&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="RaaaZo Github stars" />
 </a>
-
-<a href="https://github.com/RaaaZo/e-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaaaZo&repo=e-shop&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>
-
-<a href="https://github.com/RaaaZo/stomatologist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaaaZo&repo=stomatologist&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</a>
