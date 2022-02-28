@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mateusz Koprowicz and I'm a Junior React Developer.
+My name is Mateusz Koprowicz and I'm a Frontend Developer.
 
 ## 🔧 Technologies & Tools
 
