@@ -26,6 +26,6 @@ My name is Mateusz Koprowicz and I'm a Frontend Developer.
 <p align="center">
 <a href="https://github.com/RaaaZo/RaaZo">
   <img height="140em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaaaZo&langs_count=4&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img height="140em" align="right" src="https://github-readme-stats.vercel.app/api?username=RaaaZo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="RaaaZo Github stars" />
+  <img height="140em" align="right" src="https://github-readme-stats.vercel.app/api?username=RaaaZo&show_icons=true&line_height=27&count_private=true&hide=commits,prs,issues&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="RaaaZo Github stars" />
 </a>
 </p>
