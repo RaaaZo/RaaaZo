@@ -20,12 +20,4 @@ My name is Mateusz Koprowicz and I'm a Frontend Developer.
 ![](https://img.shields.io/badge/Tools-Material_UI-informational?style=flat&logo=Material-UI&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
 
-
-<p align="center">
-<a href="https://github.com/RaaaZo/RaaZo">
-  <img height="150em" width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaaaZo&langs_count=4&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img height="150em" width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=RaaaZo&show_icons=true&line_height=27&count_private=true&hide=stars,contribs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="RaaaZo Github stars" />
-</a>
-</p>
